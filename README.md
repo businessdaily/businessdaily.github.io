@@ -2,7 +2,7 @@
 
 Here I'll (try to) post something about the business world every workday.
 
-# Business Daily #1 20 Apr 2022
+# Business Daily #1 | 20 Apr 2022
 ## Cracking the code on cyber insurance
 from the Indicator from Planet Money, by Paddy Hirsch and Darian Woods.
 
