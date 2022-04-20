@@ -8,8 +8,8 @@ from the Indicator from Planet Money, by Paddy Hirsch and Darian Woods.
 
 US business has been being targets by Russian. Not all the companies are capable of building better systems to keep the hackers out, and many of them rely on regular insurance to covering the losses. 
 
-- property & casualty Insurance: covering all risks, incl business interruption bc of malware, with higher compensation, may deny bc of “war exclusion”
-- speciality cyber insurance: preparing for new risks, may be provided by the govt in the future
+* property & casualty insurance: covering all risks, incl business interruption bc of malware, with higher compensation, may deny bc of “war exclusion”
+* speciality cyber insurance: preparing for new risks, may be provided by the govt in the future
 
 tag: #insurance #cybersecurity #technologypolicy
 
