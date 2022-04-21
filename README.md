@@ -2,6 +2,30 @@
 
 Here I'll (try to) post something about the business world every workday. I post in English and Chinese.
 
+# Business Daily #2 | 21 Apr 2022
+## How Mobility Shapes Inclusion and Sustainable Growth in Global Cities
+from World Economic Forum
+
+The white paper aims to identify potential solutions to improve inclusivity in mobility, by analysing 3 cities with different mobility modes: Chicago, Berlin and Beijing. 
+
+### Beijing
+This high-density megacity can become nearly 30% more efficient, saving commuters about five days-worth of travel time per year:
+* Pain point: Very high demand has overwhelmed Beijing’s public transit network, with queuing times to get into some train stations consistently over 15 minutes, leading many residents to choose driving as an alternative.
+* Solution: A digital platform for metro reservations to flatten peak-hour demand and reduce commute time for rush hours.
+* Benefit: This equates to a 29% average reduction in travel time for the service users in the modelling for Beijing, an average reduction of 115 hours waiting a year per user.
+### Berlin, Germany
+The report shows how this compact, middleweight city is raising $295 million more per year for inclusive mobility projects:
+* Pain point: As central districts have become gentrified, populations have been pushed further from the city centre, where public transport is more limited and fragmented. Berliners in these peripheral areas take about 27% more time commuting than central Berliners.
+* Solution: Creating differentiated service levels for public transit increases usage and brings in additional revenue that can be used to improve public mobility systems for the underserved.
+* Benefit: A differentiated service level on public transit increased the share of public transit trips by 11% while at the same time generating 28% higher revenue for the public transport operator – an equivalent of $295 million – that can be used to improve access for underserved populations.
+### Chicago, USA
+A car-centric city such as Chicago can give low-income neighbourhoods access to hundreds of thousands of more jobs:
+* Pain point: Low-income households in Chicago spend up to 35% of their income on transportation, due to the high cost of vehicle ownership and reliance on cars for mobility. Average work commute time on public transit for individuals in low-income areas is also nearly 15 minutes longer when compared to residents in some high-income areas.
+* Solution: Introducing on-demand shuttles to cover the first and last mile of transport can greatly increase access for underserved communities.
+* Benefit: The solution would increase the share of public transit usage in Chicago by 26% and would broaden the number of jobs reachable in 40 minutes – the rough ceiling for a desirable commuting time – by 90%; this would result in improved access to 224,000 jobs from neighbourhoods that did not have access before.
+
+tag: #mobility #transport
+
 # Business Daily #1 | 20 Apr 2022
 ## Cracking the code on cyber insurance
 from the Indicator from Planet Money, by Paddy Hirsch and Darian Woods
