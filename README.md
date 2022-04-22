@@ -2,6 +2,18 @@
 
 Here I'll (try to) post something about the business world every workday. I post in English and Chinese.
 
+# Business Daily #3 | 22 Apr 2022
+## Asia prices down on soft demand, further downside seen limited
+from Reuters, by Marwa Rashad
+
+Asian spot liquefied natural gas (LNG) price were down this week which is the shoulder season, but Asian buyers are expected to start to return to the market.
+```
+Shoulder season: the months between winter and summer, when demand for gas is usually lower
+```
+China’s lockdown has lower the demand, but a higher power demand can be predicted as Asian markets could experience a high summer temperature.
+
+European market players are concerned over possible disruptions of Russian gas as a deadline for rouble payments nears.
+
 # Business Daily #2 | 21 Apr 2022
 ## How Mobility Shapes Inclusion and Sustainable Growth in Global Cities
 from World Economic Forum
