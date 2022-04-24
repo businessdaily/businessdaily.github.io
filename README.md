@@ -2,6 +2,36 @@
 
 Here I'll (try to) post something about the business world every workday. I post in English and Chinese.
 
+# Business Daily #4 | 24 Apr 2022
+## 远景的碳中和大棋局：十年一百个新园区，减掉一个日本的碳排放 | 碳案
+from 36Kr, by 时氪分享
+
+WHAT 远景科技集团与鄂尔多斯政府合作，打造全球首个零碳产业园。零碳产业园内80%电量由区域内的可再生能源（风光）发电直供，20%与电网交易，实现100%绿色零碳能源供给。
+
+HOW 
+1. 新型电力系统：大规模储能及与电网间的柔性互动。配备了高比例的电化学储能和基于氢气的长时储能；当发电量超过园区用电量时，其中有20%会卖给电网，发电量小于用电量时，园区从电网处回购绿电；
+2. 零碳数字操作系统：基于物联网的零碳数字认证体系，为每一块电池提供可追溯、符合标准、经过认证的“身份证”；
+3. 政策支持：多地推出低碳/零碳产业园区文件。
+
+WHY 
+1. 欧洲市场电池产品需要提供产品全生命周期的碳足迹，促使企业重视碳排放管理；
+2. 绿电就地消纳，进一步提高绿电经济效益，降低企业能耗成本；
+3. 电池上下游企业入驻，产业集聚效应，降低物流成本。
+
+tag: #ESG 
+## IMF walkout and downgrades underscore bleak economic outlook
+from Financial Times, by Chris Giles and Colby Smith
+
+IMF managing director said on multiple occasions that Russia’s invasion was a “massive setback” for the global economy, as the fund cut forecasts for 2022 from 4.4% estimated as recently as January to 3.6%.
+
+IMF’s fiscal and financial stability departments said that poorer countries will face increasing inflation and lower growth, and the managing director urged richer countries to step up and provide the funding required.
+
+The G20 now is under challenging circumstances, THE G7 would like to kick Russia out of these discussions.
+
+After all, the future of economic policymaking may tend to be more regional rather than global fora.
+
+tag: #globaleconomy
+
 # Business Daily #3 | 22 Apr 2022
 ## Asia prices down on soft demand, further downside seen limited
 from Reuters, by Marwa Rashad
