@@ -2,6 +2,14 @@
 
 Here I'll (try to) post something about the business world every workday. I post in English and Chinese.
 
+# Business Daily #5 | 25 Apr 2022
+## 4月份已有超30个城市调整房地产政策
+from 界面新闻, by 杜雨萌
+
+今年一季度，三四线城市商品房成交面积同比下降42.9%。政策调整主要围绕购房补贴、提高公积金贷款或降低首付比例，以及下调房贷利率等方面进行。此外，针对二孩、三孩家庭的购房宽松政策亦是重点方向之一。预计二季度楼市调控政策将继续保持较为宽松的主基调。
+
+tag: #realestate
+
 # Business Daily #4 | 24 Apr 2022
 ## 远景的碳中和大棋局：十年一百个新园区，减掉一个日本的碳排放 | 碳案
 from 36Kr, by 时氪分享
