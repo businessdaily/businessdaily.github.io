@@ -2,6 +2,17 @@
 
 Here I'll (try to) post something about the business world every workday. I post in English and Chinese.
 
+# Business Daily #8 | 28 Apr 2022
+## Indonesia industry body confident palm oil export ban could end in May
+from Reuters, by Bernadette Christina and Fransiska Nangoy
+
+> - Indonesia is experiencing the cooking oil shortage influenced by RU-UA conflict
+> - Govt cooking oil distribution move will succeed - industry group
+> - The palm oil association GAPKI warns of damage from prolonged ban
+> - Wednesday's last-minute policy (export ban on raw materials for cooking oil) shift rattles markets
+> - Rupiah falls to weakest since July 2021
+> - Navy seizes two tankers carrying palm oil
+
 # Business Daily #5 | 25 Apr 2022
 ## 4月份已有超30个城市调整房地产政策
 from 界面新闻, by 杜雨萌
