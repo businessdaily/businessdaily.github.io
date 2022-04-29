@@ -2,6 +2,14 @@
 
 Here I'll (try to) post something about the business world every workday. I post in English and Chinese.
 
+# Business Daily #9 | 29 Apr 2022
+## HSBC’s top shareholder calls for banking giants break-up
+from Reuters
+
+> - Ping An, the largest shareholder of HSBC, has called for HSBC to break itself up, incl the Financial Times and Bloomberg
+> - The plan will separate its Asia business, which would unlock greater value for HSBC shareholders
+
+tag: #finance
 # Business Daily #8 | 28 Apr 2022
 ## Indonesia industry body confident palm oil export ban could end in May
 from Reuters, by Bernadette Christina and Fransiska Nangoy
